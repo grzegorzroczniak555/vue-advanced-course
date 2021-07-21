@@ -1,0 +1,44 @@
+[
+          {
+            name: 'Tom John',
+            nick: "Tommy12",
+            hometown: "Jersey",
+            age: 15,
+            points: 1204
+          },
+          {
+            name: 'Arthur Shelbu',
+            nick: "PeakyOne",
+            hometown: "Birmingham",
+            age: 21,
+            points: 1347
+          },
+          {
+            name: 'Filip Zamachowski',
+            nick: "PhilippRTV",
+            hometown: "Warszawa",
+            age: 9,
+            points: 998
+          },
+          {
+            name: 'Jacob Nedler',
+            nick: "Needeeee",
+            hometown: "London",
+            age: 24,
+            points: 2068
+          },
+          {
+            name: 'Ignacy Zamachowski',
+            nick: "Ignaœ",
+            hometown: "Sosnowiec",
+            age: 13,
+            points: 221
+          },
+          {
+            name: 'Jesus Dioger',
+            nick: "jesus123",
+            hometown: "Mexicot City",
+            age: 20,
+            points: 1523
+          }
+        ]

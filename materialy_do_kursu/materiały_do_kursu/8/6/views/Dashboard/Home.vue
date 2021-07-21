@@ -1,0 +1,1 @@
+<template><span>homepage</span></template>
